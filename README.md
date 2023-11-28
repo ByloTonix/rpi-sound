@@ -1,2 +1,2 @@
 # rpi-sound
-Audio broadcast on Raspberry Pi with Windows
+Audio broadcast on Raspberry Pi
